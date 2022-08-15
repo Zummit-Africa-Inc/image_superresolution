@@ -1,0 +1,5 @@
+opencv-python-headless==4.4.0.44
+pillow>=8.0.0
+fastapi[all]
+onnxruntime
+gdown
